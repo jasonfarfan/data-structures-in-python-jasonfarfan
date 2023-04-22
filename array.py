@@ -1,6 +1,6 @@
 # problem 1: print your first and last name
-print("First Name: John")
-print("Last Name: Doe")
+print("First Name: Jason")
+print("Last Name: Farfan")
 
 # problem 2: create an array named 'cars'
 cars = ['Ford', 'Chrysler', 'Dodge', 'Ram', 'Jeep', 'Chevy', 'GMC']
